@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">EuroQuizion</string>
+
+    <!-- StartScreen -->
+    <string name="start_game">Start a\n new game</string>
+
+    <!-- ResultScreen -->
+    <string name="click_for_info">Click on each question for details</string>
+    <string name="play_again">Play Again</string>
+    <string name="results_screen_title">And our %1$s to… YOU!</string>
+
+    <!-- QuestionScreen -->
+    <string name="question_progress">%1$d/10</string>
+    <string name="one_point">&#160;point goes</string>
+    <string name="zero_or_several_points">&#160;points go</string>
+    <string name="count_down_go">GO!</string>
+
+    <!-- Dialogs -->
+    <string name="quit_game_dialog_title">Now hold on there for a minute!</string>
+    <string name="quit_game_dialog_message">Are you sure you want to quit?</string>
+    <string name="quit_game_dialog_pos_button">Yes please!</string>
+    <string name="quit_game_dialog_neg_button">Wait what? NO!</string>
+
+    <!-- Dialogs - ResultScreen -->
+    <string name="result_dialog_correct_title">You answered question %1$s correctly!</string>
+    <string name="result_dialog_correct_message">Q: %1$s\n\nA: %2$s</string>
+    <string name="result_dialog_correct_button">Awesome!</string>
+    <string name="result_dialog_out_of_time_title">You "didn't" answer question %1$s, you ran out of time!</string>
+    <string name="result_dialog_out_of_time_message">Q: %1$s\n\nA: %2$s</string>
+    <string name="result_dialog_out_of_time_button">Oh man, "I'll" try to catch it next time!</string>
+    <string name="result_dialog_wrong_title">You answered question %1$s incorrectly :(</string>
+    <string name="result_dialog_wrong_message">Q: %1$s\n\nYour A: %2$s\nCorrect A: %3$s</string>
+    <string name="result_dialog_wrong_button">Oh well, will get it next time!</string>
+    <string name="quit_result_dialog_title">Want to go home?</string>
+    <string name="quit_result_dialog_message">Are you sure you want to exit? Have you memorized your score for bragging?</string>
+    <string name="quit_result_dialog_pos_button">Yes, take me home!</string>
+    <string name="quit_result_dialog_neg_button">Wait no! Not yet!</string>
+
+</resources>

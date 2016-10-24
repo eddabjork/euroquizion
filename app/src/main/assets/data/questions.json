@@ -1,0 +1,676 @@
+{
+  "questions": [
+    {
+      "question": "Who won the Eurovision Song Contest in 1998?",
+      "answers": [
+        {
+          "text": "Denmark"
+        },
+        {
+          "text": "Sweden"
+        },
+        {
+          "text": "Israel"
+        },
+        {
+          "text": "United Kingdom"
+        },
+        {
+          "text": "Portugal"
+        }
+      ],
+      "correct_answer_index" : 2
+    },
+    {
+      "question": "Who represented Russia at Eurovision in 2005?",
+      "answers": [
+        {
+          "text": "Dima Bilan"
+        },
+        {
+          "text": "Mumiy Troll"
+        },
+        {
+          "text": "Alexej Vorobjov"
+        },
+        {
+          "text": "Tolmachevy Sisters"
+        },
+        {
+          "text": "Natalia Podolskaya"
+        }
+      ],
+      "correct_answer_index" : 4
+    },
+    {
+      "question": "Who hosted Eurovision in the year 2013?",
+      "answers": [
+        {
+          "text": "Denmark"
+        },
+        {
+          "text": "Iceland"
+        },
+        {
+          "text": "Russia"
+        },
+        {
+          "text": "Sweden"
+        },
+        {
+          "text": "Ukraine"
+        }
+      ],
+      "correct_answer_index" : 3
+    },
+    {
+      "question": "Which year did the Olsen brothers win Eurovision with the song ,Fly on the Wings of Love'?",
+      "answers": [
+        {
+          "text": "1999"
+        },
+        {
+          "text": "2000"
+        },
+        {
+          "text": "1998"
+        },
+        {
+          "text": "2001"
+        },
+        {
+          "text": "2003"
+        }
+      ],
+      "correct_answer_index" : 1
+    },
+    {
+      "question": "Where was the Eurovision Song Contest held in the year 2010?",
+      "answers": [
+        {
+          "text": "Norway"
+        },
+        {
+          "text": "Sweden"
+        },
+        {
+          "text": "Denmark"
+        },
+        {
+          "text": "Germany"
+        },
+        {
+          "text": "Spain"
+        }
+      ],
+      "correct_answer_index" : 0
+    },
+    {
+      "question": "Which country has the winning record of Eurovision?",
+      "answers": [
+        {
+          "text": "France"
+        },
+        {
+          "text": "Luxembourg"
+        },
+        {
+          "text": "United Kingdom"
+        },
+        {
+          "text": "Sweden"
+        },
+        {
+          "text": "Ireland"
+        }
+      ],
+      "correct_answer_index" : 4
+    },
+    {
+      "question": "Which country has received the most points for its contribution to Eurovision?",
+      "answers": [
+        {
+          "text": "Sweden"
+        },
+        {
+          "text": "Norway"
+        },
+        {
+          "text": "Ukraine"
+        },
+        {
+          "text": "Australia"
+        },
+        {
+          "text": "Russia"
+        }
+      ],
+      "correct_answer_index" : 2
+    },
+    {
+      "question": "Sweden won the Eurovision Song Contest in 2012 with the song ,Euphoria'. Who performed it?",
+      "answers": [
+        {
+          "text": "Charlotte Nilsson"
+        },
+        {
+          "text": "Måns Zelmerlöw"
+        },
+        {
+          "text": "Loreen"
+        },
+        {
+          "text": "Sanna Nielsen"
+        },
+        {
+          "text": "	Carola"
+        }
+      ],
+      "correct_answer_index" : 2
+    },
+    {
+      "question": "When was Eurovision first held?",
+      "answers": [
+        {
+          "text": "1990"
+        },
+        {
+          "text": "1986"
+        },
+        {
+          "text": "1970"
+        },
+        {
+          "text": "1960"
+        },
+        {
+          "text": "1956"
+        }
+      ],
+      "correct_answer_index" : 4
+    },
+    {
+      "question": "Where was the Eurovision Song Contest first held?",
+      "answers": [
+        {
+          "text": "France"
+        },
+        {
+          "text": "Switzerland"
+        },
+        {
+          "text": "Germany"
+        },
+        {
+          "text": "Austria"
+        },
+        {
+          "text": "Luxembourg"
+        }
+      ],
+      "correct_answer_index" : 1
+    },
+    {
+      "question": "Which outfit color has won Eurovision the most times?",
+      "answers": [
+        {
+          "text": "White"
+        },
+        {
+          "text": "Red"
+        },
+        {
+          "text": "Black"
+        },
+        {
+          "text": "Blue"
+        },
+        {
+          "text": "Yellow"
+        }
+      ],
+      "correct_answer_index" : 0
+    },
+    {
+      "question": "In 2015, which country had the highest percentage of the TV-watching citizens tuned in to the Grand Final?",
+      "answers": [
+        {
+          "text": "Denmark"
+        },
+        {
+          "text": "Ireland"
+        },
+        {
+          "text": "Sweden"
+        },
+        {
+          "text": "Iceland"
+        },
+        {
+          "text": "Poland"
+        }
+      ],
+      "correct_answer_index" : 3
+    },
+    {
+      "question": "How many times has the UK hosted Eurovision?",
+      "answers": [
+        {
+          "text": "5 times"
+        },
+        {
+          "text": "8 times"
+        },
+        {
+          "text": "3 times"
+        },
+        {
+          "text": "7 times"
+        },
+        {
+          "text": "6 times"
+        }
+      ],
+      "correct_answer_index" : 1
+    },
+    {
+      "question": "Including singers, musicians and dancers, what is the maximum number of people allowed on stage to perform?",
+      "answers": [
+        {
+          "text": "4 people"
+        },
+        {
+          "text": "8 people"
+        },
+        {
+          "text": "6 people"
+        },
+        {
+          "text": "7 people"
+        },
+        {
+          "text": "No Limit"
+        }
+      ],
+      "correct_answer_index" : 2
+    },
+    {
+      "question": "Which country has been participating for the longest without ever winning?",
+      "answers": [
+        {
+          "text": "Malta"
+        },
+        {
+          "text": "Cyprus"
+        },
+        {
+          "text": "Iceland"
+        },
+        {
+          "text": "Poland"
+        },
+        {
+          "text": "Portugal"
+        }
+      ],
+      "correct_answer_index" : 4
+    },
+    {
+      "question": "Which country has received 0 points the most number of times?",
+      "answers": [
+        {
+          "text": "Norway"
+        },
+        {
+          "text": "United Kingdom"
+        },
+        {
+          "text": "Austria"
+        },
+        {
+          "text": "Ireland"
+        },
+        {
+          "text": "Azerbaijan"
+        }
+      ],
+      "correct_answer_index" : 0
+    },
+    {
+      "question": "How many times has the Irish singer Johnny Logan won the Eurovision Song Contest?",
+      "answers": [
+        {
+          "text": "2 times"
+        },
+        {
+          "text": "4 times"
+        },
+        {
+          "text": "3 times"
+        },
+        {
+          "text": "1 time"
+        },
+        {
+          "text": "5 times"
+        }
+      ],
+      "correct_answer_index" : 2
+    },
+    {
+      "question": "To the nearest hundred, what is the total number of songs to have ever taken part in the Eurovision Song Contest?",
+      "answers": [
+        {
+          "text": "2800 songs"
+        },
+        {
+          "text": "2300 songs"
+        },
+        {
+          "text": "1900 songs"
+        },
+        {
+          "text": "1400 songs"
+        },
+        {
+          "text": "1100 songs"
+        }
+      ],
+      "correct_answer_index" : 3
+    },
+    {
+      "question": "Since the year 2000, what is the average number of points that the UK has received in the Eurovision Song Contest?",
+      "answers": [
+        {
+          "text": "12 points"
+        },
+        {
+          "text": "30 points"
+        },
+        {
+          "text": "42 points"
+        },
+        {
+          "text": "62 points"
+        },
+        {
+          "text": "76 points"
+        }
+      ],
+      "correct_answer_index" : 2
+    },
+    {
+      "question": "What is the minimum age for a Eurovision performer?",
+      "answers": [
+        {
+          "text": "15"
+        },
+        {
+          "text": "18"
+        },
+        {
+          "text": "No Minimum"
+        },
+        {
+          "text": "16"
+        },
+        {
+          "text": "17"
+        }
+      ],
+      "correct_answer_index" : 3
+    },
+    {
+      "question": "How many people are estimated to tune in to watch the Eurovision Song Contest every year?",
+      "answers": [
+        {
+          "text": "180 million"
+        },
+        {
+          "text": "140 million"
+        },
+        {
+          "text": "80 million"
+        },
+        {
+          "text": "200 million"
+        },
+        {
+          "text": "100 million"
+        }
+      ],
+      "correct_answer_index" : 0
+    },
+    {
+      "question": "How many countries participated in the Eurovision Song Contest in the year 2011?",
+      "answers": [
+        {
+          "text": "46 countries"
+        },
+        {
+          "text": "42 countries"
+        },
+        {
+          "text": "45 countries"
+        },
+        {
+          "text": "43 countries"
+        },
+        {
+          "text": "44 countries"
+        }
+      ],
+      "correct_answer_index" : 1
+    },
+    {
+      "question": "How many times has Ireland won the Eurovision Song Contest?",
+      "answers": [
+        {
+          "text": "9 times"
+        },
+        {
+          "text": "8 times"
+        },
+        {
+          "text": "3 times"
+        },
+        {
+          "text": "6 times"
+        },
+        {
+          "text": "7 times"
+        }
+      ],
+      "correct_answer_index" : 4
+    },
+    {
+      "question": "Which country has the proud heritage of coming last the most?",
+      "answers": [
+        {
+          "text": "Sweden"
+        },
+        {
+          "text": "Norway"
+        },
+        {
+          "text": "United Kingdom"
+        },
+        {
+          "text": "Iceland"
+        },
+        {
+          "text": "Denmark"
+        }
+      ],
+      "correct_answer_index" : 1
+    },
+    {
+      "question": "In 1978, which country became the first to receive 0 points overall with their entry 'Mil Etter Mil'?",
+      "answers": [
+        {
+          "text": "Norway"
+        },
+        {
+          "text": "Sweden"
+        },
+        {
+          "text": "Denmark"
+        },
+        {
+          "text": "Finland"
+        },
+        {
+          "text": "Faroe Islands"
+        }
+      ],
+      "correct_answer_index" : 0
+    },
+    {
+      "question": "What was Katrina and the Waves' best known song prior to their participation in Eurovision?",
+      "answers": [
+        {
+          "text": "Lay Your Hands On Me"
+        },
+        {
+          "text": "Walking On Sunshine"
+        },
+        {
+          "text": "All Through The Night"
+        },
+        {
+          "text": "Too Late For Goodbyes"
+        },
+        {
+          "text": "Drinking Some Tea"
+        }
+      ],
+      "correct_answer_index" : 1
+    },
+    {
+      "question": "Which of these Eurovision Song Contest winners is famous for having had a sex change operation in the 1990s?",
+      "answers": [
+        {
+          "text": "Eimear Quinn"
+        },
+        {
+          "text": "Jónsi í Svörtum Fötum"
+        },
+        {
+          "text": "Sertab Erener"
+        },
+        {
+          "text": "Charlotte Nilsson"
+        },
+        {
+          "text": "Dana International"
+        }
+      ],
+      "correct_answer_index" : 4
+    },
+    {
+      "question": "What is the maximum amount of points a country can give to a song during voting in Eurovisoin?",
+      "answers": [
+        {
+          "text": "10 points"
+        },
+        {
+          "text": "15 points"
+        },
+        {
+          "text": "12 points"
+        },
+        {
+          "text": "25 points"
+        },
+        {
+          "text": "14 points"
+        }
+      ],
+      "correct_answer_index" : 2
+    },
+    {
+      "question": "Which of these countries has (before 2015) won the Eurovision Song Contest at least once?",
+      "answers": [
+        {
+          "text": "Republic of Macedonia"
+        },
+        {
+          "text": "Albania"
+        },
+        {
+          "text": "Belarus"
+        },
+        {
+          "text": "Russia"
+        },
+        {
+          "text": "Iceland"
+        }
+      ],
+      "correct_answer_index" : 3
+    },
+    {
+      "question": "Which of these countries has (before 2015) won the Eurovision Song Contest at least once?",
+      "answers": [
+        {
+          "text": "Azerbaijan"
+        },
+        {
+          "text": "Moldova"
+        },
+        {
+          "text": "Armenia"
+        },
+        {
+          "text": "Georgia"
+        },
+        {
+          "text": "Iceland"
+        }
+      ],
+      "correct_answer_index" : 0
+    },
+    {
+      "question": "Which of these Eurovision Song Contest winners became famous for having a beard?",
+      "answers": [
+        {
+          "text": "Ágústa Eva"
+        },
+        {
+          "text": "Conchita Wurst"
+        },
+        {
+          "text": "Alexander Rybak"
+        },
+        {
+          "text": "Johnny Logan"
+        },
+        {
+          "text": "Dima Bilan"
+        }
+      ],
+      "correct_answer_index" : 1
+    },
+    {
+      "question": "Since the mid-80s, in which month of the year is the Eurovision Song Contest mostly held?",
+      "answers": [
+        {
+          "text": "April"
+        },
+        {
+          "text": "March"
+        },
+        {
+          "text": "June"
+        },
+        {
+          "text": "May"
+        },
+        {
+          "text": "August"
+        }
+      ],
+      "correct_answer_index" : 3
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/eddabjorkkonradsdottir/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/eddabjorkkonradsdottir/AndroidStudioProjects/EuroQuizion/app/build/intermediates/pre-dexed/debug/gson-2.2.4-51cba134f3a112c793906be5afd1c9a78b15b546.jar" />
+    </item>
+
+</items>
